@@ -1,0 +1,9 @@
+<?php namespace Template\ProductsModule\Productscharacteristic;
+
+use Template\ProductsModule\Productscharacteristic\Contract\ProductscharacteristicInterface;
+use Anomaly\Streams\Platform\Model\Products\ProductsProductscharacteristicsEntryModel;
+
+class ProductscharacteristicModel extends ProductsProductscharacteristicsEntryModel implements ProductscharacteristicInterface
+{
+
+}

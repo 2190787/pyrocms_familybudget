@@ -1,0 +1,9 @@
+{
+    "name": "template/companies-module",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Template\\CompaniesModule\\": "src/"
+        }
+    }
+}

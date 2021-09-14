@@ -1,0 +1,9 @@
+{
+    "name": "template/products-module",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Template\\ProductsModule\\": "src/"
+        }
+    }
+}

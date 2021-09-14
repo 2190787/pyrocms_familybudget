@@ -1,0 +1,9 @@
+{
+    "name": "template/example-theme",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Template\\ExampleTheme\\": "src/"
+        }
+    }
+}
